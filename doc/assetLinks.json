@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.colinchallenge.checkthemovieskot",
+    "sha256_cert_fingerprints":
+    ["20:0A:9C:10:21:4D:6A:2F:75:5E:52:FC:8C:EF:62:F7:31:16:E4:F4:DE:55:92:9C:93:17:6B:FD:91:C6:96:F7"]
+  }
+}]
